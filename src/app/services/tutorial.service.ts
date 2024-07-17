@@ -4,8 +4,8 @@ import { Observable } from 'rxjs';
 import { Tutorial } from '../models/tutorial.model';
 
 // const baseUrl = 'http://localhost:8080/api/tutorials';
-
-const baseUrl = 'https://backend-ms-git2-microservices-project.apps.cluster-rks25.sandbox1930.opentlc.com/api/tutorials';
+                 
+const baseUrl = 'https://backend-ms-git1-microservices-project.apps.cluster-rks25.sandbox1930.opentlc.com/api/tutorials';
 
 @Injectable({
   providedIn: 'root'
